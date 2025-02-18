@@ -78,8 +78,9 @@ For a list of what constitutes valid encodings, check [this list][iana-character
 * for Kindle build use `--enable-kindle --sysconfdir=/mnt/us/extensions/kterm` configure options. If you are cross-compiling run `make dist-kindle` instead of `make install`. It will create zip package in build directory.
 
 #### Packages 
-* for Kindle Touch/Paperwhite are available at http://www.fabiszewski.net/kindle-terminal/
 **Note:** For firmware versions above 5.16.2.1.1, you will need to use the version ending in `-armhf` which can be found in [Github Releases](https://github.com/bfabiszewski/kterm/releases)
+
+* for Kindle Touch/Paperwhite are available at http://www.fabiszewski.net/kindle-terminal/
 
 #### License
  * GPL version 3 or (at your option) any later version
