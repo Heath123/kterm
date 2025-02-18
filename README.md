@@ -79,6 +79,7 @@ For a list of what constitutes valid encodings, check [this list][iana-character
 
 #### Packages 
 * for Kindle Touch/Paperwhite are available at http://www.fabiszewski.net/kindle-terminal/
+**Note:** For firmware versions above 5.16.2.1.1, you will need to use the version ending in `-armhf` which can be found in [Github Releases](https://github.com/bfabiszewski/kterm/releases)
 
 #### License
  * GPL version 3 or (at your option) any later version
